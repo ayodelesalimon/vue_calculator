@@ -15,7 +15,7 @@
     <div @click="append('5')" class="btn">5</div>
     <div @click="append('6')" class="btn">6</div>
     <div @click="substract" class="btn operator">-</div>
-    <div @click="append('2')" class="btn">1</div>
+    <div @click="append('1')" class="btn">1</div>
     <div @click="append('2')" class="btn">2</div>
     <div @click="append('3')" class="btn">3</div>
     <div @click="add" class="btn operator">+</div>
